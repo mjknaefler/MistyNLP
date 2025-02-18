@@ -8,6 +8,7 @@ httpcore==1.0.7
 httpx==0.28.1
 idna==3.10
 jiter==0.8.2
+mistyPy==0.0.4
 openai==1.62.0
 platformdirs==4.3.6
 pydantic==2.10.6
